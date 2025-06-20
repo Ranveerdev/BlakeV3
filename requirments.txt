@@ -1,0 +1,3 @@
+pyttsx3
+wikipedia
+speech_recognition

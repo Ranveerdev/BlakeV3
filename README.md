@@ -14,3 +14,5 @@ Your AI voice assistant using speech recognition, Wikipedia search, Regression a
 ```bash
 pip install -r requirements.txt
 python BlakeV3.py
+
+## IN PROGRRESS
